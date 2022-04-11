@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: bigpump3.jpeg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Quantifiable Risk
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+ Since the future baseline value can be accurately determined by the projected trading volume, risk ratios are more easily quantifiable.
