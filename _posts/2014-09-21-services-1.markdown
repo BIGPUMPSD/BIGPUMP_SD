@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: bigpump1.jpeg
 category: Services
 title: Eliminate Rug-Pulls
 description: |
 ---
-   Token liquidity is held securely inside the token’s own contract, and is inaccessible, making it impossible to rug-pull and eliminating the need for liquidity provider (LP) tokens.
+   Bigpump liquidity is held securely inside the token own contract, and is inaccessible, making it impossible to rug-pull and eliminating the need for liquidity provider (LP) tokens.
