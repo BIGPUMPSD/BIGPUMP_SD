@@ -27,11 +27,12 @@ permalink: pretty
 
 social:
   - title: twitter
-    logo: comment
     url: https://t.me/bigpump_sd
   - title: github
     url: https://github.com/IronSummitMedia/startbootstrap
   - title: telegram
     url: 
   - title: facebook
+    url: 
+  - title: comment
     url: 
