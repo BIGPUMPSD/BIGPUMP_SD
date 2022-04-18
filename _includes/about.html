@@ -12,10 +12,23 @@
                 <br/>
               </div>
         </div>
-<div class='wrap-collabsible'>
+<div class='faq'>
+<div class='container'>
+  <b:section class='faq-title' id='faq-title' name='FAQ Title' showaddelement='no'>
+    <b:widget id='HTML60' locked='true' title='FAQ' type='HTML' version='1'>
+      <b:widget-settings>
+        <b:widget-setting name='content'/>
+      </b:widget-settings>
+      <b:includable id='main'><b:if cond='data:title != &quot;&quot;'><h2 class='title'><data:title/></h2></b:if><div class='deskripsi'><data:content/></div>
+	</b:includable>
+    </b:widget>
+  </b:section>
+  <!-- START --><div class='wrap-collabsible'>
 	<input checked='' class='toggle' id='collapsible' type='checkbox'/><label class='lbl-toggle' for='collapsible'>how to buy?</label>
 	<div class='collapsible-content'>
 	<div class='content-inner'>
+
+
 
     <!-- SmartDeFi CSS file -->
     <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/sdwidget/sd/css/sdwidget.css" />
